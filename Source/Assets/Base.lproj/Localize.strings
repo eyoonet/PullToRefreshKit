@@ -6,21 +6,21 @@
   Copyright © 2016年 Leo. All rights reserved.
 */
 
-pullDownToRefresh = "Pull to refresh";
+pullDownToRefresh = "下拉可以刷新";
 
-releaseToRefresh = "Release to refresh";
+releaseToRefresh = "松开立即刷新";
 
-refreshSuccess = "Update successful";
+refreshSuccess = "刷新成功";
 
-refreshFailure = "Update failed";
+refreshFailure = "刷新失败";
 
-refreshing = "Refreshing...";
+refreshing = "正在刷新数据中...";
 
-pullUpToRefresh = "Scroll to load";
+pullUpToRefresh = "上拉加载更多数据";
 
-noMoreData = "No more data";
+noMoreData = "数据加载完毕";
 
-tapToRefresh = "Tap to refresh";
+tapToRefresh = "点击加载更多";
 
-scrollAndTapToRefresh = "Scroll or tap to load";
+scrollAndTapToRefresh = "上拉或点击加载更多";
 
